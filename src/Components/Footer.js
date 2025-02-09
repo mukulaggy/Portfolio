@@ -8,9 +8,9 @@ const Footer = () => {
       <h4>Developed by Mukul Agrawal</h4>
       <h4>Copyright &copy; 2025 MA</h4>
       <div className='footerLinks'>
-        <a href="https://github.com/mukulaggy" target='_blank'><FaGithub/></a>
-        <a href="https://www.linkedin.com/in/mukul-agrawal-2472b226b/" target='_blank'><FaLinkedin/></a>
-        <a href='mailTo:aggymukul@gmail.com' target='_blank'><GrMail/></a>
+        <a href="https://github.com/mukulaggy" ><FaGithub/></a>
+        <a href="https://www.linkedin.com/in/mukul-agrawal-2472b226b/" ><FaLinkedin/></a>
+        <a href='mailTo:aggymukul@gmail.com'><GrMail/></a>
       </div>
     </footer>
   )
